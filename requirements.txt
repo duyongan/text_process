@@ -1,0 +1,4 @@
+nltk
+jieba
+simple_pickle
+numpy

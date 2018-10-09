@@ -1,0 +1,7 @@
+setup.py
+text_process/text.py
+text_process/text_utils.py
+text_process.egg-info/PKG-INFO
+text_process.egg-info/SOURCES.txt
+text_process.egg-info/dependency_links.txt
+text_process.egg-info/top_level.txt
