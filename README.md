@@ -22,7 +22,7 @@ text_utils.getKeywords_zh_not_single(text)
 ## 英文关键字（包括词组）
 text_utils.getKeywords_en(text)
 ## 文本相似度比较
-compare_botor=text_utils.compare_bot()
+compare_botor=text_utils.compare_bot()  
 text2=""
 compare_bot.compare_two_txt_accuracy(text,text2)
 ## 或者（适合少量数据）
